@@ -1,3 +1,4 @@
+![Banner Image](./profilebanner.png)
 <h1 align="center">Hi 👋, I'm chirag koyeande</h1>
 <h3 align="center">🚀 Frontend Dev | UI/UX Designer | Cybersecurity Enthusiast Passionate about crafting seamless user experiences, exploring cybersecurity, and building innovative solutions. Active in hackathons, tech conferences & impactful projects. Let's connect and create</h3>
 <p align="left"> <a href="https://twitter.com/chirag_koyande" target="blank"><img src="https://img.shields.io/twitter/follow/chirag_koyande?logo=twitter&style=for-the-badge" alt="chirag_koyande" /></a> </p>
