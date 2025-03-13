@@ -1,43 +1,75 @@
 ![Banner Image](./profilebanner.png)
 
-<!-- Profile Animation -->
+<!-- ⚡ Glitchy Cyber Name -->
+<h1 align="center">
+  <a href="https://github.com/chiragkoyande">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Initializing+Chirag+Koyande...;System+Online...;Cyber+Operations+Active...;Frontend+%7C+UI/UX+%7C+Cybersecurity...">
+  </a>
+</h1>
+
+<!-- 🔥 Animated Terminal Typing -->
 <p align="center">
-  <img src="animation.gif" width="35%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&lines=Accessing+GitHub+Mainframe...;Decrypting+Repositories...;Loading+Cyber+Operations...;Scan+Complete!">
 </p>
 
-<!-- Typing Effect -->
+<!-- 🔥 GLITCH GIF & HACKER VIBES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Chirag+Koyande+%3C3;A+2nd+yr+Undergraduate+at+Bharati+Vidyapeeth;Frontend+Developer+%7C+UI/UX+Designer+%7C+Cybersecurity+Enthusiast;Welcome+to+my+GitHub+Profile!">
+  <img src="https://media.tenor.com/oA8Ks2kkZ1UAAAAC/glitch-matrix.gif" width="600">
 </p>
 
-<!-- Social Media & Portfolio -->
+<!-- 💀 Hacker ASCII Skull -->
+<p align="center">
+  <img src="https://github.com/bornmay/bornmay/blob/master/hacker.svg" width="500">
+</p>
+
+<!-- 🛠️ Cyberpunk Social Media Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-koyande" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://chiragkoyande.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF00FF.svg?&style=for-the-badge&logo=react&logoColor=white">
   </a>
   <a href="https://github.com/chiragkoyande" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
-<!-- GitHub Stats -->
+<!-- ⚠️ HACKER SYSTEM STATUS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragkoyande&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiragkoyande&theme=radical&hide_border=true" width="48%">
+  <img src="https://media.tenor.com/bm6-Jv6iHvsAAAAd/error-glitch.gif" width="500">
 </p>
 
-<!-- Top Languages -->
+<!-- 🛠️ GitHub Stats (Hacker Style) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragkoyande&layout=compact&theme=radical" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragkoyande&show_icons=true&theme=dracula" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiragkoyande&theme=neon-palenight&hide_border=true" width="48%">
 </p>
 
-<!-- Fun Quote -->
+<!-- 📊 Cybersecurity-Themed Languages -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragkoyande&layout=compact&theme=dark&langs_count=6" width="40%">
 </p>
+
+<!-- 🔥 CRAZY HACKER QUOTE -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+
+<!-- ⚠️ WARNING: SYSTEM BREACHED! -->
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400">
+</p>
+
+<!-- ⚡ RANDOM HACKER TERMINAL -->
+<p align="center">
+  <img src="https://github.com/Plankton07/Plankton07/blob/output/github-contribution-grid-snake-dark.svg" width="900">
+</p>
+
+<!-- 🕶️ THE FINAL WARNING -->
+<h3 align="center">⚠️ SYSTEM BREACHED: CONNECTION TERMINATED ⚠️</h3>
+
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
