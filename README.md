@@ -102,17 +102,25 @@ const chirag = {
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragkoyande&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiragkoyande&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak">
+  <a href="https://github.com/chiragkoyande">
+    <img src="https://github-readme-stats.vercel.app/api?username=chiragkoyande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/chiragkoyande">
+    <img src="https://streak-stats.demolab.com?user=chiragkoyande&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragkoyande&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%" alt="Top Languages">
+  <a href="https://github.com/chiragkoyande">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragkoyande&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="40%" alt="Top Languages">
+  </a>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragkoyande&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="98%" alt="Activity Graph">
+  <a href="https://github.com/chiragkoyande">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragkoyande&theme=tokyo-night&hide_border=true" width="98%" alt="Activity Graph">
+  </a>
 </p>
 
 <!-- Divider -->
@@ -138,7 +146,7 @@ const chirag = {
 <h2>Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/chirag-koyande" target="_blank">
+  <a href="www.linkedin.com/in/chirag-koyande-b03535259" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/chirag_koyande" target="_blank">
@@ -147,8 +155,8 @@ const chirag = {
   <a href="mailto:chiragkoyande4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://chiragkoyande.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  <a href="https://chirag-portfolio-xi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/chiragkoyande" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
