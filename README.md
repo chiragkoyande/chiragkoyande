@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="./profilebanner.png" alt="Chirag Koyande Banner" width="100%">
-</p>
+
 
 <!-- Animated Name -->
 <h1 align="center">
