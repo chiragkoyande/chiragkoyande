@@ -152,7 +152,7 @@ const chirag = {
   <a href="mailto:chiragkoyande4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://chirag-portfolio-xi.vercel.app/" target="_blank">
+  <a href="https://www.chiragk.online/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/chiragkoyande" target="_blank">
